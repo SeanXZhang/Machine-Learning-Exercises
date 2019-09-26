@@ -1,0 +1,21 @@
+2019-07-17 11:48:59,801 - project-demo - INFO - i am working now
+2019-07-17 11:50:12,125 - project-demo - INFO - i am working now
+2019-07-17 11:50:45,961 - project-demo - INFO - i am working now
+2019-07-17 11:53:05,147 - project-demo - INFO - Load data from /Users/jodie/Documents/self/WeCloudData/WCD-ML-Jodie/Week 4 - Non-parametric Methods/Lab/another_demo/data/iris.csv
+2019-07-17 11:53:05,157 - project-demo - INFO - Model saved to results folder
+2019-07-17 11:53:05,161 - project-demo - INFO - Performance saved to results folder
+2019-07-17 11:54:22,594 - project-demo - INFO - Load data from /Users/jodie/Documents/self/WeCloudData/WCD-ML-Jodie/Week 4 - Non-parametric Methods/Lab/another_demo/data/iris.csv
+2019-07-17 11:54:22,604 - project-demo - INFO - Model saved to results folder
+2019-07-17 11:54:22,607 - project-demo - INFO - Performance saved to results folder
+2019-07-17 12:02:59,004 - project-demo - INFO - Load data from /Users/jodie/Documents/self/WeCloudData/WCD-ML-Jodie/Week 4 - Non-parametric Methods/Lab/another_demo/data/iris.csv
+2019-07-17 12:02:59,017 - project-demo - INFO - Model saved to results folder
+2019-07-17 12:02:59,024 - project-demo - INFO - Performance saved to results folder
+2019-07-17 14:09:25,648 - project-demo - INFO - Load data from /Users/jodie/Documents/self/WeCloudData/WCD-ML-Jodie/Week 4 - Non-parametric Methods/Lab/another_demo/data/iris.csv
+2019-07-17 14:09:25,660 - project-demo - INFO - Model saved to results folder
+2019-07-17 14:09:25,664 - project-demo - INFO - Performance saved to results folder
+2019-07-17 14:17:31,531 - project-demo - INFO - Load data from /Users/jodie/Documents/self/WeCloudData/WCD-ML-Jodie/Week 4 - Non-parametric Methods/Lab/another_demo/data/iris.csv
+2019-07-17 14:17:31,541 - project-demo - INFO - Model saved to results folder
+2019-07-17 14:17:31,545 - project-demo - INFO - Performance saved to results folder
+2019-07-17 14:18:36,389 - project-demo - INFO - Load data from /Users/jodie/Documents/self/WeCloudData/WCD-ML-Jodie/Week 4 - Non-parametric Methods/Lab/another_demo/data/iris.csv
+2019-07-17 14:18:36,423 - project-demo - INFO - Model saved to results folder
+2019-07-17 14:18:36,428 - project-demo - INFO - Performance saved to results folder

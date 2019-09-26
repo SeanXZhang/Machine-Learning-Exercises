@@ -1,0 +1,42 @@
+2019-07-19 21:21:58,432 - svm_lab - INFO - >>>>>>>>>>>>>>>>Run svm_parameter_tuning.py
+2019-07-19 21:21:58,524 - svm_lab - INFO - Loaded 1797 images and 1797 labels.
+2019-07-19 21:21:58,524 - svm_lab - INFO - Shape before preprocessing: (1797, 8, 8)
+2019-07-19 21:21:58,524 - svm_lab - INFO - Shape after preprocessing: (1797, 64)
+2019-07-19 21:22:06,947 - svm_lab - INFO - GridSearchCV took 8.42 seconds for 20 candidate parameter settings.
+2019-07-19 21:22:06,948 - svm_lab - INFO - Best clf (0.960 validation score):
+2019-07-19 21:22:06,948 - svm_lab - INFO - SVC(C=1, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto_deprecated',
+  kernel='poly', max_iter=-1, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+2019-07-19 21:22:06,948 - svm_lab - INFO - Saving fitted model to /Users/jodie/Documents/self/WeCloudData/WCD-ML-Jodie/Week 5 - SVM/Lab/svm_tuning/svm_tuning/../models/svm_grid_search=False.clf
+2019-07-19 21:22:07,009 - svm_lab - INFO - Loaded 1797 images and 1797 labels.
+2019-07-19 21:22:07,010 - svm_lab - INFO - Transforming training images...
+2019-07-19 21:22:07,010 - svm_lab - INFO - Shape before preprocessing: (1437, 8, 8)
+2019-07-19 21:22:07,010 - svm_lab - INFO - Shape after preprocessing: (1437, 64)
+2019-07-19 21:22:07,011 - svm_lab - INFO - 
+Transforming test images...
+2019-07-19 21:22:07,011 - svm_lab - INFO - Shape before preprocessing: (360, 8, 8)
+2019-07-19 21:22:07,011 - svm_lab - INFO - Shape after preprocessing: (360, 64)
+2019-07-19 21:22:07,024 - svm_lab - INFO - Accuracy: 0.997
+2019-07-19 21:22:07,025 - svm_lab - INFO - >>>>>>>>>>>>>>>>End of svm_parameter_tuning.py
+2019-07-20 16:51:33,571 - svm_lab - INFO - >>>>>>>>>>>>>>>>Run svm_parameter_tuning.py
+2019-07-20 16:51:33,634 - svm_lab - INFO - Loaded 1797 images and 1797 labels.
+2019-07-20 16:51:33,634 - svm_lab - INFO - Shape before preprocessing: (1797, 8, 8)
+2019-07-20 16:51:33,634 - svm_lab - INFO - Shape after preprocessing: (1797, 64)
+2019-07-20 16:51:42,439 - svm_lab - INFO - GridSearchCV took 8.80 seconds for 20 candidate parameter settings.
+2019-07-20 16:51:42,440 - svm_lab - INFO - Best clf (0.960 validation score):
+2019-07-20 16:51:42,440 - svm_lab - INFO - SVC(C=0.1, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto_deprecated',
+  kernel='poly', max_iter=1000, probability=False, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+2019-07-20 16:51:42,440 - svm_lab - INFO - Saving fitted model to /Users/jodie/Documents/self/WeCloudData/WCD-ML-Jodie/Week 5 - SVM/Lab/svm_tuning_solution/svm_tuning/../models/svm_grid_search=False.clf
+2019-07-20 16:51:42,498 - svm_lab - INFO - Loaded 1797 images and 1797 labels.
+2019-07-20 16:51:42,499 - svm_lab - INFO - Transforming training images...
+2019-07-20 16:51:42,499 - svm_lab - INFO - Shape before preprocessing: (1437, 8, 8)
+2019-07-20 16:51:42,499 - svm_lab - INFO - Shape after preprocessing: (1437, 64)
+2019-07-20 16:51:42,499 - svm_lab - INFO - 
+Transforming test images...
+2019-07-20 16:51:42,499 - svm_lab - INFO - Shape before preprocessing: (360, 8, 8)
+2019-07-20 16:51:42,500 - svm_lab - INFO - Shape after preprocessing: (360, 64)
+2019-07-20 16:51:42,514 - svm_lab - INFO - Accuracy: 1.0
+2019-07-20 16:51:42,514 - svm_lab - INFO - >>>>>>>>>>>>>>>>End of svm_parameter_tuning.py
